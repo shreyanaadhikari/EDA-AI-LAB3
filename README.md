@@ -31,12 +31,6 @@ Rating ↔ Metascore is also strongly correlated (0.63) — audience and critic 
 Revenue ↔ Metascore is the weakest link (0.14) — critical acclaim and box office performance are largely independent.
 Missing data found only in Revenue (Millions) (~12.8%) and Metascore (~6.4%); no duplicate rows present.
 
-🗂️ Project Structure
-
-├── IMDB_EDA_Lab3.ipynb     # Full EDA notebook with code, explanations & visuals
-├── IMDB_Movie_Data.csv     # Raw dataset
-└── README.md
-
 👩‍💻 Author
 
 Shreyana Adhikari
