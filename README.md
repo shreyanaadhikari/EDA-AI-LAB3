@@ -1,9 +1,9 @@
-# EDA-AI-LAB3
-We were given to perform EDA for a dataset in our AI Lab Task. This is my final LAB report for which I have performed EDA on a particular dataset.  
+# EDA
+We were given to perform EDA for a dataset. This is my final LAB report for which I have performed EDA on a particular dataset.  
 
 📊 Overview
 
-Exploratory Data Analysis (EDA) performed on the IMDB Movie Dataset as part of Lab 3. The goal: understand the dataset's structure, assess data quality, and uncover patterns and relationships between movie attributes like rating, votes, revenue, and runtime — before any modeling is attempted.
+Exploratory Data Analysis (EDA) performed on the IMDB Movie Dataset. The goal: understand the dataset's structure, assess data quality, and uncover patterns and relationships between movie attributes like rating, votes, revenue, and runtime — before any modeling is attempted.
 
 📁 Dataset
 
